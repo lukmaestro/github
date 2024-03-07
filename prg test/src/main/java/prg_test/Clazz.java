@@ -41,20 +41,15 @@ public class Clazz {
         }
     }
 
-    // Příklad main metody pro spuštění programu
     public static void main(String[] args) {
-        // Vytvoření instance třídy Clazz
         Clazz trida = new Clazz("1A");
 
-        // Vytvoření instance třídy Student a přidání do seznamu studenti
         Student student1 = new Student("Jan", "Novák", 20, "1A");
         trida.pridatStudenta(student1);
 
-        // Vytvoření další instance třídy Student a přidání do seznamu studenti
         Student student2 = new Student("Eva", "Svobodová", 19, "1A");
         trida.pridatStudenta(student2);
 
-        // Volání metody pro výpis informací o třídě
         trida.vypisInformaceOTridě();
     }
 }
