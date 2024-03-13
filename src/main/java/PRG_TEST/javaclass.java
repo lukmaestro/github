@@ -1,4 +1,4 @@
-package javatest1;
+package PRG_TEST;
 
 public class javaclass {
     public static void main(String[] args) {
