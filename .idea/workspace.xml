@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0138cc19-1091-48b2-b631-813e364fc49d" name="Changes" comment="commit 3) třída clazz">
-      <change beforePath="$PROJECT_DIR$/src/main/java/PRG_TEST/javaclass.java" beforeDir="false" />
+    <list default="true" id="0138cc19-1091-48b2-b631-813e364fc49d" name="Changes" comment="commit 6) třída studenti">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PRG_TEST/Clazz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PRG_TEST/Clazz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PRG_TEST/Studenti.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.javaclass.executor": "Run",
+    "Node.js.Clazz.js.executor": "Run",
+    "Node.js.Studenti.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "PRG__TEST-7.3.24",
@@ -80,7 +84,7 @@
       <updated>1709710794991</updated>
       <workItem from="1709710795820" duration="2312000" />
       <workItem from="1709805346178" duration="1473000" />
-      <workItem from="1710313378343" duration="791000" />
+      <workItem from="1710313378343" duration="2366000" />
     </task>
     <task id="LOCAL-00001" summary="commit 3) třída clazz">
       <option name="closed" value="true" />
@@ -98,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710313939001</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 6) třída studenti">
+      <option name="closed" value="true" />
+      <created>1710314324184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710314324184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 3) třída clazz" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 3) třída clazz" />
+    <MESSAGE value="commit 6) třída studenti" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 6) třída studenti" />
   </component>
 </project>
