@@ -7,3 +7,5 @@ class Clazz {
 
 const instance = new Clazz("1A");
 console.log(instance.nazev);
+
+
